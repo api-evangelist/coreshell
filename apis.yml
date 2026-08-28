@@ -9,6 +9,17 @@ description: 'Coreshell (Coreshell Technologies, Inc.) is a San Leandro, Califor
   cell manufacturer, not a software vendor: its public web presence is a Webflow marketing
   site with no developer portal, API reference, machine-readable specification, SDK, or
   public code repository.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/6418c049a689a74a41dc6deb/641bc4b2523aa24c2a4aeb27_webclip.png
 url: https://raw.githubusercontent.com/api-evangelist/coreshell/refs/heads/main/apis.yml
 x-type: company
